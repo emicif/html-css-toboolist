@@ -30,6 +30,12 @@ main{
     border-radius: 10%;
 }
 
+.taste{
+    border-bottom: 1px solid black;
+    margin: none;
+}
+
+
 /*lista*/
 ul {
     list-style-type: none;
