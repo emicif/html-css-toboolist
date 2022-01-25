@@ -1,0 +1,35 @@
+#header {
+    display: inline;
+    height: 2000px;
+    vertical-align: middle;
+}
+
+#title {
+    font-size: 36px;
+    vertical-align: middle;
+}
+
+
+main{
+    margin: 50px 100px;
+}
+
+#contenitore{
+    background-color: #f6f8f9;
+    padding: 10px 50px;
+}
+
+/*button*/
+.btn-1 {
+    background-color: #46adf1;
+}
+
+.btn{
+    width: auto;
+    height: 30px;
+    border: none;
+    border-radius: 10%;
+}
+
+
+
