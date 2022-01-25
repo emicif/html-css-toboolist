@@ -60,12 +60,32 @@ li {
 }
 
 .etichetta{
-    background-color: #45abea;
-    border-radius: 10px;
-    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 15px;
+    font-size: 12px;
     color: white;
-    padding: 5px;
+    padding: 6px 12px;
+    background-color: #45abea;
 }
 
+.et-2{
+    background-color: #9c72e4;
+}
+
+.et-3{
+    background-color: #64c0a9;
+}
+
+.et-4{
+    background-color: #f29e33;
+}
+
+.et-5{
+    background-color: #d863a1;
+}
+
+.et-6{
+    background-color: #b0c926;
+}
 
 
