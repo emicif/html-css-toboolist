@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 #header {
     display: inline;
     height: 2000px;
@@ -10,27 +14,41 @@
 
 
 main{
-    margin: 50px 100px;
-}
-
-.contenitore {
     background-color: #f6f8f9;
-    padding: 25px 50px;
+    padding-top: 5px;
 }
 
+.contenitore-2{
+    margin: 10px 100px 0 100px;
+    border-bottom: 1px solid #f6f8f9;
+    padding: 10px 60px;
+    background-color: white;
+}
+
+.contenitore-3 {
+    margin: 0.1px 100px 100px 100px;
+    padding: 10px 60px;
+    background-color: white;
+}
 
 /*button*/
 .btn-1 {
     background-color: #46adf1;
+    color: white;
 }
 
+.btn-2{
+    color: #d2d7db;
+}
 .btn{
+    
     width: auto;
     height: 30px;
     border: none;
     border-radius: 10%;
     border-bottom: ;
 }
+
 
 
 
@@ -94,7 +112,4 @@ li {
 
 
 
-.linea{
-    border-bottom: 1px solid red;
-}
 
