@@ -13,9 +13,14 @@ main{
     margin: 50px 100px;
 }
 
-#contenitore{
+.contenitore {
     background-color: #f6f8f9;
     padding: 25px 50px;
+}
+
+hr{
+    color: black;
+    background-color: red;
 }
 
 /*button*/
@@ -30,10 +35,6 @@ main{
     border-radius: 10%;
 }
 
-.taste{
-    border-bottom: 1px solid black;
-    margin: none;
-}
 
 
 /*lista*/
