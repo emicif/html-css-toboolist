@@ -15,7 +15,7 @@ main{
 
 #contenitore{
     background-color: #f6f8f9;
-    padding: 10px 50px;
+    padding: 25px 50px;
 }
 
 /*button*/
@@ -57,6 +57,14 @@ li {
     color: #ea453b;
     text-align: center;
     padding: 1px;
+}
+
+.etichetta{
+    background-color: #45abea;
+    border-radius: 10px;
+    font-size: 15px;
+    color: white;
+    padding: 5px;
 }
 
 
